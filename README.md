@@ -76,4 +76,5 @@ As versões são publicadas na aba **Releases**.
 [MIT License](https://github.com/armalunar/septoptimizer/blob/main/LICENSE)
 
 <img width="937" height="709" alt="image" src="https://github.com/user-attachments/assets/fac78656-d3d2-4468-adbd-1ad077651cbd" />
+<img width="939" height="529" alt="image" src="https://github.com/user-attachments/assets/cff3030a-bd3d-45ec-b7f3-38bd6f5faf7d" />
 
