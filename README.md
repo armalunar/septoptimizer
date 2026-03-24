@@ -2,6 +2,16 @@
 
 Ferramenta avançada de otimização profunda para Windows, focada em desempenho real, estabilidade e controle total do sistema.
 
+---
+
+## 📥 Download
+
+👉 **Baixe a versão mais recente:**
+
+🔗 https://github.com/armalunar/septoptimizer/releases/latest/download/SeptOptimizer1.5.exe
+
+---
+
 ## ⚡ Principais Recursos
 
 - 🧠 Auto Tune inteligente (Perfil Geral e Gamer)
@@ -15,21 +25,14 @@ Ferramenta avançada de otimização profunda para Windows, focada em desempenho
 
 ---
 
-## 📥 Instalação
-
-1. Baixe o executável na aba **Releases**
-2. Execute como **Administrador**
-3. (Opcional) Crie um ponto de restauração
-
----
-
 ## 🧪 Como usar
 
-1. Abra o aplicativo como administrador
-2. Escolha uma das opções:
+1. Baixe o executável acima
+2. Execute como **Administrador**
+3. Escolha uma otimização:
 
 ### 🔹 Nível 1 (Seguro)
-- Auto Tune
+- Auto Tune (Recomendado)
 - Deep Clean
 - Disk Boost
 
@@ -43,19 +46,12 @@ Ferramenta avançada de otimização profunda para Windows, focada em desempenho
 - Debloat Services
 - Registry Tweaks
 
-⚠️ Recomenda-se usar o **Auto Tune** primeiro.
-
 ---
 
 ## 📂 Logs e Dados
 
-Os dados são salvos em:
+Os arquivos são salvos em:
 %AppData%\SeptOptimizer\
-
-Inclui:
-- Logs detalhados
-- Backups de registro
-- Relatórios
 
 ---
 
@@ -64,29 +60,17 @@ Inclui:
 Este software realiza modificações profundas no sistema.
 
 - Use por sua conta e risco
-- Sempre crie um ponto de restauração
-- Todas as alterações podem impactar estabilidade dependendo do sistema
+- Recomenda-se criar ponto de restauração
+- Pode impactar serviços do Windows dependendo do uso
 
 ---
 
 ## 🔄 Atualizações
 
-Novas versões são publicadas regularmente na aba **Releases**.
-
----
-
-## 💻 Requisitos
-
-- Windows 10/11
+As versões são publicadas na aba **Releases**.
 
 ---
 
 ## 📜 Licença
 
-Distribuído sob licença MIT.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por Armalunar🚀
+MIT License
