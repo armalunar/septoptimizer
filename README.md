@@ -73,4 +73,4 @@ As versões são publicadas na aba **Releases**.
 
 ## 📜 Licença
 
-MIT License
+[MIT License](https://github.com/armalunar/septoptimizer/blob/main/LICENSE)
