@@ -8,7 +8,7 @@ Ferramenta avançada de otimização profunda para Windows, focada em desempenho
 
 👉 **Baixe a versão mais recente:**
 
-🔗 [V1.5](https://github.com/armalunar/septoptimizer/releases/latest/download/SeptOptimizer1.5.exe)
+🔗 [V2.0](https://github.com/armalunar/septoptimizer/releases/latest/download/SeptOptimizer1.5.exe)
 
 ---
 
